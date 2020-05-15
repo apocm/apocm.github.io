@@ -1,3 +1,5 @@
-div {
-  margin: 10px;
+body {
+  margin: 20px;
+  background-color: black;
+  color: white;
 }
