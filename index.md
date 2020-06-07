@@ -1,10 +1,43 @@
 Meow
 
 Languages
-* [Ruby](ruby) 
+* [Ruby](ruby)
+* [Node.js](nodejs)
+* [TypeScript](typescript)
+* [HTML/CSS](html-css)
 
-Frameworks
+Frameworks R Us
+* [React](react)
+* [JQuery](jquery)
 * [Ruby on Rails](rails)
+* [Express](express)
 
-Text Editors
+Cloud Services
+* [AWS](aws)
+
+Databases
+* [MySQL](mysql)
+* [Postgres](postgres)
+* [MongoDB](mongodb)
+
+Web Servers & cie.
+* [nginx](nginx)
+* [passenger](passenger)
+* [monit](monit)
+
+* [Git](git)
+
+* [Unix Trix](unix)
+
+Editors & Tools
 * [Sublime](sublime)
+* [VSCode](vscode)
+* [vim](vim)
+* [tmux](tmux)
+
+APIs
+* [Shopify](shopify-api)
+* [WooCommerce](woocommerce-api)
+* [FedEx](fedex)
+* [Postmates](postmates)
+* [Deliv](deliv)
