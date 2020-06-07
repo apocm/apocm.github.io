@@ -25,9 +25,9 @@ Web Servers & cie.
 * [passenger](passenger)
 * [monit](monit)
 
-* [Git](git)
+[Git](git)
 
-* [Unix Trix](unix)
+[Unix Trix](unix)
 
 Editors & Tools
 * [Sublime](sublime)
