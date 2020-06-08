@@ -4,6 +4,7 @@ Languages
 * [Ruby](ruby)
 * [Node.js](nodejs)
 * [TypeScript](typescript)
+* [Java](java)
 * [HTML/CSS](html-css)
 
 Frameworks R Us
@@ -39,5 +40,7 @@ APIs
 * [Shopify](shopify-api)
 * [WooCommerce](woocommerce-api)
 * [FedEx](fedex)
+* [UPS](ups)
 * [Postmates](postmates)
 * [Deliv](deliv)
+* [Klaviyo](klaviyo)
