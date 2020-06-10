@@ -1,10 +1,10 @@
 <h1>Meow</h1>
 
 Cats
-[Best cat](cat1)
-[Sweet cat](cat2)
-[Butter cat](cat3)
-[Spooky cat](cat4)
+* [Best cat](cat1)
+* [Sweet cat](cat2)
+* [Butter cat](cat3)
+* [Spooky cat](cat4)
 
 Languages
 * [Ruby](ruby)
